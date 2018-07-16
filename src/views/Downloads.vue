@@ -41,16 +41,40 @@
             maintainer: 'Nico Franke (ZerNico)',
           },
           {
+            id: 'dumpling',
+            name: 'OnePlus 5T',
+            maintainer: 'Pranav Thombare',
+          },
+          {
+            id: 'kenzo',
+            name: 'Redmi Note 3',
+            maintainer: 'Absar Rahman',
+          },
+          {
             id: 'mido',
             name: 'Redmi Note 4',
             maintainer: 'Adesh Ikhar (Adesh15)',
           },
-
           {
-            id: 'vince',
-            name: 'Redmi 5 Plus',
-            maintainer: 'mdeejay🇷🇺',
-          }
+            id: 'whyred',
+            name: 'Redmi Note 5 Pro',
+            maintainer: 'Devansh Bajaj (devansh23)',
+          },
+          {
+            id: 'z2_plus',
+            name: 'Zuk Z2 Plus',
+            maintainer: 'Anunay Maheshwari (anunaym14)',
+          },
+          {
+            id: 'sanders',
+            name: 'Moto G5S Plus',
+            maintainer: 'Keertesh',
+          },
+          {
+            id: 'X00TD',
+            name: 'Asus ZenFone Max Pro (M1)',
+            maintainer: 'Akash Khatri',
+          },
         ]
       }
     },
